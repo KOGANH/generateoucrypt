@@ -1,0 +1,2 @@
+# generateoucrypt
+Gera nomes
